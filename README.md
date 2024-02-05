@@ -25,7 +25,7 @@ Detect and track 2D polygons against static background using basic libraries.
 
   - Minimum object distance treshold during tracking.
 
-  - Similar polygon shapes apprimation.
+  - Similar polygon shapes approximation.
 
 </details>
 
