@@ -1,5 +1,5 @@
 ### Objective
-Detect and track 2D polygons against statuc background using basic libraries.
+Detect and track 2D polygons against static background using basic libraries.
 
 <details close>	
   <summary> Key Features </summary>
